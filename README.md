@@ -14,3 +14,4 @@ These are some papers and research directions that got me excited. This is WIP! 
 * [Enhancing Robot Program Synthesis Through Environmental Context](https://arxiv.org/abs/2312.08250)
 * [ExeDec: Execution Decomposition for Compositional Generalization in Neural Program Synthesis](https://arxiv.org/abs/2307.13883)
 * [Hypothesis Search: Inductive Reasoning with Language Models](https://arxiv.org/abs/2309.05660)
+* [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)
