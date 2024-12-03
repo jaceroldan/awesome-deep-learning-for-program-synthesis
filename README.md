@@ -15,3 +15,7 @@ These are some papers and research directions that got me excited. This is WIP! 
 * [ExeDec: Execution Decomposition for Compositional Generalization in Neural Program Synthesis](https://arxiv.org/abs/2307.13883)
 * [Hypothesis Search: Inductive Reasoning with Language Models](https://arxiv.org/abs/2309.05660)
 * [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)
+
+Program Synthesis with large language models:
+* [Guiding Enumerative Program Synthesis with Large Language Models](https://arxiv.org/abs/2403.03997)
+* [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)
